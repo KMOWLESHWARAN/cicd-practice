@@ -13,6 +13,7 @@ function App() {
 
   return (
     <div style={{ textAlign: 'center', marginTop: '50px', fontFamily: 'sans-serif' }}>
+      <h2>CI-CD Automation</h2>
       <h2>My Mini Full-Stack App</h2>
       <p style={{ color: 'blue', fontSize: '20px' }}>
         {data ? data : "Loading backend data..."}
